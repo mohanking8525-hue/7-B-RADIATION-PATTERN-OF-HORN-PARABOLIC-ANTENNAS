@@ -60,29 +60,15 @@ In our above example suppose operating frequency is 9GHZ λ0=3.33CM.where c is v
 
 **TABULATION:** 
 
-**HORN ANTENNA** 
+<img width="800" height="558" alt="image" src="https://github.com/user-attachments/assets/b3990c29-5975-4d1c-a952-7a0dd88a7fe9" />
 
-Beam voltage	:
-
-Beam current	 :
-
-**PARABOLICANTENNA**
-
-Beam voltage	:
-
-Beam current	 :
-
-Repeller voltage :
-
-	V1 : 
 
 **RESULT:**
 
-Thus the polar pattern and the gain of a waveguide horn antenna and parabolicantenna was measured and plotted.
+The horn antenna operated at 250 V beam voltage and 18 mA beam current, producing a stable radiation pattern with clear main and side lobes.
 
-Beamwidth of horn antenna :
+The parabolic antenna operated at 250 V beam voltage, 19 mA beam current, and a repeller voltage of –120 V, resulting in a narrow beam and higher directivity.
 
-Beamwidth of parabolic antenna:		
+From the plotted radiation pattern, the 3 dB beamwidth was determined (narrower for the parabolic antenna).
 
-
-
+The antenna gain was calculated using VSWR meter readings and was found to be in the expected range for horn and parabolic antennas.
